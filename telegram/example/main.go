@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/apiqa-dev/base/clients/telegram"
+	"github.com/apiqa-dev/clients/telegram"
 )
 
 func main() {
